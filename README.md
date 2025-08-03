@@ -1,5 +1,6 @@
-## Hi there 👋# 💫 About Me:
-🔭 I’m currently pursuing a B.E computer science<br>🌱 I’m currently learning DSA course <br>💬 Ask me about : I combine strategic thinking with honesty, <br>Ensuring my work is effective and trustworthy <br>⚡ Fun fact: An investment in knowledge  pays the best interest
+
+💫 About Me:
+Hi,there..🔭 I’m currently pursuing a B.E computer science<br>🌱 I’m currently learning DSA course <br>💬 Ask me about : I combine strategic thinking with honesty, <br>Ensuring my work is effective and trustworthy <br>⚡ Fun fact: An investment in knowledge  pays the best interest
 
 
 ## 🌐 Socials:
